@@ -10,6 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.19",
+    "@mui/material": "^5.15.19",
+    "@stackflow/core": "^1.0.10",
+    "@stackflow/plugin-basic-ui": "^1.7.0",
+    "@stackflow/plugin-renderer-basic": "^1.1.8",
+    "@stackflow/react": "^1.1.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -18,7 +26,7 @@
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
-    "@vitejs/plugin-react-swc": "^3.5.0",
+    "@vitejs/plugin-react": "^4.2.1",
     "eslint": "^8.57.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
